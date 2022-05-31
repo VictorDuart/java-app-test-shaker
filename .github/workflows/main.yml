@@ -26,4 +26,5 @@ jobs:
         uses: STAR-RG/shaker@main
         with:
           tool: maven
-          runs: 3
+          runs: 30
+          no_stress_runs: 3
